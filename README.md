@@ -1,4 +1,4 @@
-# SlackNerd
+# SlackGPT
 
 ## About
 - Sets up a Slack chatbot that will take all @mentions of its username and query gpt-3.5-turbo with the text in the mention. It will then respond in the channel it was asked with the chatgpt response.
